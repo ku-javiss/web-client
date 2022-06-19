@@ -1,0 +1,72 @@
+
+  .container{
+    margin: 0px auto;
+    padding: 0px auto;
+    text-align: center;
+  }
+  #searchbox{
+    margin: 0px;
+    padding: 0 0 0 0;
+  }
+  #searchbutton,#voicebutton,#speakbutton{
+    width: 100%;
+    height: 100%;
+  }
+  #sbbox,#voicebox{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    
+  }
+  .input{
+    position: relative;
+    align-self: auto;
+    margin-top: 0px;
+    margin-right: 10px;
+    width: 100%;
+    padding-left: 15px;
+    height: 533px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    border: none;
+  }
+  .output{
+    position: relative;
+    align-self: auto;
+    margin-top: 0px;
+    margin-left: 10px;
+    width: 100%;
+    padding-left: 15px;
+    height: 533px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    border: none;
+  }
+  #serch-box{
+    margin-right: 5px;
+  }
+  #search-text{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    width:100%;
+    height: 50px;
+    
+  
+  }
+  #bibleplace{
+    width:100%;
+    height: 35vh;
+    font-size: 25px;
+    padding-left: 1vw;
+    overflow: scroll;
+  }
+  .highlightChapter{
+    font-weight: bold;
+    color: crimson;
+  }
+  .highlightVerse{
+    font-weight: bold;
+    color: blue;
+  }
+  
